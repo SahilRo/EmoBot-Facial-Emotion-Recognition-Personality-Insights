@@ -1,5 +1,5 @@
 
- #                     Emo Bot
+ #     div<align="center"                Emo Bot   </div>
 ## 
 
 ![App Screenshot](https://tse1.mm.bing.net/th?id=OIP.rhY7KfwGxeeK9kiUhYqqxwHaHa&pid=Api&P=0&h=180)
