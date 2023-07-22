@@ -2,7 +2,7 @@
  #     <h1 align="center">                Emo Bot   </h1>
 ## 
 
-![App Screenshot](https://tse1.mm.bing.net/th?id=OIP.rhY7KfwGxeeK9kiUhYqqxwHaHa&pid=Api&P=0&h=180)
+<div align="center">![App Screenshot](https://tse1.mm.bing.net/th?id=OIP.rhY7KfwGxeeK9kiUhYqqxwHaHa&pid=Api&P=0&h=180)</div>
 
 
 
